@@ -2,11 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dtt888.github.io/blog</id>
     <title>DTT's life Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2023-03-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dtt888.github.io/blog"/>
     <subtitle>DTT's life Blog</subtitle>
     <icon>https://dtt888.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[couple phone case]]></title>
+        <id>https://dtt888.github.io/blog/couple phone case</id>
+        <link href="https://dtt888.github.io/blog/couple phone case"/>
+        <updated>2023-03-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[flower1]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="flower1" src="https://dtt888.github.io/assets/images/couplephonecase-0c983e3eefedda212037ef9467ce4788.jpg" width="300" height="300" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>duantiantian</name>
+            <uri>https://github.com/DTT888</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3.7 flower]]></title>
+        <id>https://dtt888.github.io/blog/3.7 flower</id>
+        <link href="https://dtt888.github.io/blog/3.7 flower"/>
+        <updated>2023-03-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[flower1flower2]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="flower1" src="https://dtt888.github.io/assets/images/flower1-c2eb13c1d12df25a416ef0c812abad3f.jpg" width="225" height="300" class="img_ev3q"><img decoding="async" loading="lazy" alt="flower2" src="https://dtt888.github.io/assets/images/flower2-6d3918ab1d9e3ae501f0841db1badbcc.jpg" width="168" height="300" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>duantiantian</name>
+            <uri>https://github.com/DTT888</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[first contack]]></title>
+        <id>https://dtt888.github.io/blog/first contack</id>
+        <link href="https://dtt888.github.io/blog/first contack"/>
+        <updated>2023-02-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[firstcontact]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="firstcontact" src="https://dtt888.github.io/assets/images/firstcontact-4863e051630993935a04d119035be035.jpg" width="216" height="480" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>duantiantian</name>
+            <uri>https://github.com/DTT888</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://dtt888.github.io/blog/welcome</id>
