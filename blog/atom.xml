@@ -2,18 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dtt888.github.io/blog</id>
     <title>DTT's life Blog</title>
-    <updated>2023-03-24T00:00:00.000Z</updated>
+    <updated>2023-05-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dtt888.github.io/blog"/>
     <subtitle>DTT's life Blog</subtitle>
     <icon>https://dtt888.github.io/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[luoyang]]></title>
+        <id>https://dtt888.github.io/blog/luoyang</id>
+        <link href="https://dtt888.github.io/blog/luoyang"/>
+        <updated>2023-05-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[洛邑古城龙门石窟]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="洛邑古城" src="https://dtt888.github.io/assets/images/%E6%B4%9B%E9%82%91%E5%8F%A4%E5%9F%8E-96c7a748aca19b41613f7955cea7b649.jpg" width="400" height="300" class="img_ev3q"><img decoding="async" loading="lazy" alt="龙门石窟" src="https://dtt888.github.io/assets/images/%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F-b917ac040cb8d6bb9f6a508806ae08fc.jpg" width="225" height="300" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>duantiantian</name>
+            <uri>https://github.com/DTT888</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[guangzhou]]></title>
+        <id>https://dtt888.github.io/blog/guangzhou</id>
+        <link href="https://dtt888.github.io/blog/guangzhou"/>
+        <updated>2023-04-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[羊驼广州塔]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="羊驼" src="https://dtt888.github.io/assets/images/%E7%BE%8A%E9%A9%BC-886b025f246bc0aefab323be3776b7f5.jpg" width="400" height="300" class="img_ev3q"><img decoding="async" loading="lazy" alt="广州塔" src="https://dtt888.github.io/assets/images/%E5%B9%BF%E5%B7%9E%E5%A1%94-145af1e4420ffdbfae6e5ab9ec675b82.jpg" width="400" height="300" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>duantiantian</name>
+            <uri>https://github.com/DTT888</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[couple phone case]]></title>
         <id>https://dtt888.github.io/blog/couple phone case</id>
         <link href="https://dtt888.github.io/blog/couple phone case"/>
         <updated>2023-03-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[flower1]]></summary>
-        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="flower1" src="https://dtt888.github.io/assets/images/couplephonecase-0c983e3eefedda212037ef9467ce4788.jpg" width="300" height="300" class="img_ev3q"></p>]]></content>
+        <summary type="html"><![CDATA[couple phone case]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="couple phone case" src="https://dtt888.github.io/assets/images/couplephonecase-0c983e3eefedda212037ef9467ce4788.jpg" width="300" height="300" class="img_ev3q"></p>]]></content>
         <author>
             <name>duantiantian</name>
             <uri>https://github.com/DTT888</uri>
